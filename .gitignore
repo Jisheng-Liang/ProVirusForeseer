@@ -1,0 +1,8 @@
+# file
+*.csv
+*.npy
+*.fa
+
+# dir
+__pycache__/
+MLAEP/
